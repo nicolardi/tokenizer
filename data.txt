@@ -1,0 +1,5 @@
+banana banana banana supercalifragilistichespiralidoso supercalifragilistichespiralidoso
+Ciao! Ciao! Ciao! Questo è un testo... un testo di prova per il mio tokenizer.
+Ripetizioni: test test test, 123-123-123, e token token tokenization.
+Accenti e simboli: àèìòù àèìòù!!! #test #test_123 @user @user
+Emoji ripetute: 🚀🤖✨ 🚀🤖✨ 🚀🤖✨
